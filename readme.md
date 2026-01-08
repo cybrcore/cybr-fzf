@@ -16,6 +16,7 @@
 - Make sure kitty is installed: `sudo pacman -S kitty` and theme is applied
 - Make sure fzf is installed: `sudo pacman -S fzf`
 - See [Installation Guide](../INSTALL.md) if you haven't set up prerequisites yet
+- [Github](https://github.com/junegunn/fzf) | [Arch Wiki](https://wiki.archlinux.org/title/Fzf)
 
 ### 1. Apply the theme
 ```sh
