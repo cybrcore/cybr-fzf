@@ -14,7 +14,7 @@ fc-cache -fv
 ```
 - Make sure kitty is installed: `sudo pacman -S kitty` and [cybrcore theme](https://github.com/cybrcore/cybr-kitty) is applied
 - Make sure fzf is installed: `sudo pacman -S fzf`
-- See [Installation Guide](https://github.com/cybrcore/cybrland/blob/main/INSTALL.md) if you`re coming from [cybr-hyprland](https://github.com/cybrcore/cybrland) and haven't set up prerequisites yet
+- See [Installation Guide](https://github.com/cybrcore/cybrdots/blob/main/INSTALL.md) if you're coming from [cybr-hyprland](https://github.com/cybrcore/cybr-hyprland) and haven't set up prerequisites yet
 - [fzf Github](https://github.com/junegunn/fzf) | [Arch Wiki](https://wiki.archlinux.org/title/Fzf)
 
 ## 1. Open terminal
